@@ -1,6 +1,6 @@
 # py2048
 name-Fariz Ali
-
+The code was written on an adroid app called Pydroid3(as i had no acces to a laptop or a pc).
 I have made a code of 2048 game.
 The puzzle is controlled by 4 buttons.
 w- to shift board upwards
